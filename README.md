@@ -14,7 +14,7 @@ API for collecting site visit metrics
 
 ## Authors
 
-- [@pcatrina](https://www.github.com/octokatherine)
+- [@pcatrina](https://www.github.com/pcatrina)
 
 
 ## Deployment
