@@ -19,6 +19,7 @@ import javax.validation.Valid;
 @Controller
 @RequestMapping(value = "v1/metric", produces = MediaType.APPLICATION_JSON_VALUE)
 @RequiredArgsConstructor
+@CrossOrigin(origins = "http://localhost:3000")
 public class MetricController {
 
     private final MetricService metricsService;
